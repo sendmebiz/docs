@@ -1,2 +1,2 @@
 # docs
-sendme public documents
+this repository is for public company documents
